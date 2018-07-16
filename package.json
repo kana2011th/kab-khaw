@@ -8,12 +8,23 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.5.16"
+    "animejs": "^2.2.0",
+    "element-ui": "^2.3.6",
+    "firebase": "^5.2.0",
+    "greensock": "^1.20.2",
+    "gsap": "^2.0.1",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.0.3",
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1",
+    "vue2-animate": "^2.0.0",
+    "vuefire": "^2.0.0-alpha.12"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-rc.4",
     "@vue/cli-plugin-eslint": "^3.0.0-rc.4",
     "@vue/cli-service": "^3.0.0-rc.4",
+    "vue-cli-plugin-element-ui": "^1.1.2",
     "vue-template-compiler": "^2.5.16"
   },
   "eslintConfig": {
